@@ -10,14 +10,15 @@ Everything is free, works on a phone, and needs no account.
 
 ## Tools you can use today
 
-🏁 **[AOK9 Race Secretary](https://aok9.pages.dev)** — Run a sprint racing meet start to finish:
-entries, divisions, programs, results and export, following the AOK9 Sprint Racing Rule Book v3.0.
-Everything stays in your own browser — no account, no server, nothing uploaded.
-Also at [gazehound.io](https://gazehound.io).
+🏁 **[AOK9 Race Secretary](https://aok9rms.gazehound.io)** — Run a sprint racing meet start to
+finish: entries, divisions, programs, results and export, following the AOK9 Sprint Racing Rule
+Book v3.0. Everything stays in your own browser — no account, no server, nothing uploaded.
 
 📝 **[Lure Coursing Trial Entries](https://entries.lurecoursing.club)** — An online ASFA trial
 entry form. Entrants fill it in, sign and pay; the trial secretary gets a clean, legible entry
-instead of a stack of handwriting.
+instead of a stack of handwriting. **We'll set up and configure a form for your club** — your
+stakes and fees, confirmation auto-responders for entrants, entry notifications to your FTS —
+just ask.
 
 📖 **[ASFA II 2026 — Unofficial Guide](https://ii2026.gazehound.io/)** — Stakes, fees, deadlines,
 awards and travel for the 48th ASFA International Invitational, in plain language on any device.
