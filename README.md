@@ -5,7 +5,7 @@
 
 Creating practical, open tools for the sighthound community.
 
-Focused on modernizing event management, online entries, and club resources while keeping solutions simple, reliable, and accessible.
+Focused on modernizing event management, club resources, outreach and education while keeping solutions simple, reliable, and accessible.
 
 ## Featured Projects
 
