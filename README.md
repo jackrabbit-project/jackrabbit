@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="The Jackrabbit Project Logo" width="160" />
+</p>
+
 # The Jackrabbit Project
 
 Creating practical, open tools for the sighthound community.
@@ -6,18 +10,15 @@ Focused on modernizing event management, online entries, and club resources whil
 
 ## Featured Projects
 
-🐾 Lure Coursing resources - DEMO site
-https://stage.lurecoursing.club/
+🐾 **[Lure Coursing resources - DEMO site](https://stage.lurecoursing.club/)**
 
-🏆 ASFA International Invitational 2026  - DEMO site
-https://asfaii2026.lurecoursing.club
+🏆 **[ASFA International Invitational 2026 — DEMO site](https://asfaii2026.lurecoursing.club)**
 
-ASFA II - Unofficial Guide
-https://ii2026.gazehound.io/
+📖 **[ASFA II — Unofficial Guide](https://ii2026.gazehound.io/)**
 
-📝 Lure coursing trial entries  
-https://entries.lurecoursing.club
+📝 **[Lure coursing trial entries](https://entries.lurecoursing.club)**
 
-🏁 AOK9 Racing  
-https://aok9.pages.dev or https://gazehound.io# jackrabbit
-Free, open tools for sighthound community. The Jackrabbit Project.
+🏁 **[AOK9 Racing](https://aok9.pages.dev)** *(или [gazehound.io](https://gazehound.io))*
+
+---
+*Free, open tools for the sighthound community. The Jackrabbit Project.*
