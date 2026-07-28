@@ -1,8 +1,7 @@
-<p align="center">
+<div align="center">
   <img src="assets/logo.png" alt="The Jackrabbit Project Logo" width="160" />
-</p>
-
-# The Jackrabbit Project
+  <h1>The Jackrabbit Project</h1>
+</div>
 
 Creating practical, open tools for the sighthound community.
 
