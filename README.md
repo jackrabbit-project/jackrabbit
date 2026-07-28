@@ -9,7 +9,7 @@ Focused on modernizing event management, club resources, outreach and education 
 
 ## Featured Projects
 
-🐾 **[Lure Coursing resources - DEMO site](https://stage.lurecoursing.club/)**
+🐾 **[Lure Coursing resources - DEMO site](https://demo.lurecoursing.club/)**
 
 🏆 **[ASFA International Invitational 2026 — DEMO site](https://asfaii2026.lurecoursing.club)**
 
