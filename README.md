@@ -10,13 +10,17 @@ Everything is free, works on a phone, and needs no account.
 
 ## Tools you can use today
 
-📊 **[Lure Coursing Stats](https://stats.gazehound.io)** — Search and sort the 2026 ASFA season standings. 
-Look up any hound by call name, registered name, or owner. View true percentile standings within a breed, 
-track cross-breed BIF and BOB leaderboards, and explore detailed stats by region and club.  
+📊 **[Lure Coursing Stats](https://stats.gazehound.io)** — Search and sort the 2026 ASFA season
+standings. Look up any hound by call name, registered name, or owner. View true percentile
+standings within a breed, track cross-breed BIF and BOB leaderboards, and explore detailed stats
+by region, club and titles earned. Breed stakes, the Singles stake and the LCI program are each
+counted on their own terms. Refreshed with each ASFA standings publication.
 
 🏁 **[AOK9 Race Secretary](https://aok9rms.gazehound.io)** — Run a sprint racing meet start to
 finish: entries, divisions, programs, results and export, following the AOK9 Sprint Racing Rule
-Book v3.0. Everything stays in your own browser — no account, no server, nothing uploaded.
+Book v3.0. Install it once and it runs with no signal at all — meets happen in fields — and your
+meet is saved after every change, so closing the laptop loses nothing. Everything stays in your
+own browser: no account, no server, nothing uploaded.
 
 📝 **[Lure Coursing Trial Entries](https://entries.lurecoursing.club)** — An online ASFA trial
 entry form. Entrants fill it in, sign and pay; the trial secretary gets a clean, legible entry
