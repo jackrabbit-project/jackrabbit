@@ -11,7 +11,7 @@ Everything is free, works on a phone, and needs no account.
 ## Tools you can use today
 
 📊 **[Lure Coursing Stats](https://stats.gazehound.io)** — Search and sort the 2026 ASFA season
-standings. Look up any hound by call name, registered name, or owner. View true percentile
+standings. Look up any hound by call name or registered name. View true percentile
 standings within a breed, track cross-breed BIF and BOB leaderboards, and explore detailed stats
 by region, club and titles earned. Breed stakes, the Singles stake and the LCI program are each
 counted on their own terms. Refreshed with each ASFA standings publication.
