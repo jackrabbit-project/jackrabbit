@@ -10,11 +10,14 @@ Everything is free, works on a phone, and needs no account.
 
 ## Tools you can use today
 
-📊 **[Lure Coursing Stats](https://stats.gazehound.io)** — Search and sort the 2026 ASFA season
-standings. Look up any hound by call name or registered name. View true percentile
-standings within a breed, track cross-breed BIF and BOB leaderboards, and explore detailed stats
-by region, club and titles earned. Breed stakes, the Singles stake and the LCI program are each
-counted on their own terms. Refreshed with each ASFA standings publication.
+📊 **[Lure Coursing Stats](https://stats.gazehound.io)** — The 2026 ASFA season, searchable.
+Look up any hound for a full profile — rank, points, movement since the last update, and a
+shareable stat card. True percentile standings within each breed, BIF and BOB leaderboards,
+kennel and region tables, and every title earned this season. Find an upcoming trial by state,
+region or month with premium lists linked, check a score with the Bowen calculator, or search
+the Running Rules (rev. 08/01/2026) right on the site. Breed stakes, the Singles stake and the
+LCI program are counted on their own terms, every figure traces to ASFA's published pages, and
+it refreshes with each ASFA publication.
 
 🏁 **[AOK9 Race Secretary](https://aok9rms.gazehound.io)** — Run a sprint racing meet start to
 finish: entries, divisions, programs, results and export, following the AOK9 Sprint Racing Rule
@@ -30,7 +33,8 @@ just ask.
 
 📖 **[ASFA II 2026 — Unofficial Guide](https://ii2026.gazehound.io/)** — Stakes, fees, deadlines,
 awards and travel for the 48th ASFA International Invitational, in plain language on any device.
-An unofficial community guide; the official premium list at asfa.org governs.
+An unofficial community guide; the official premium list at asfa.org governs. Entries close
+September 25, 2026.
 
 ## Demos & proposals
 
