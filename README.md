@@ -48,6 +48,19 @@ points and forms, mobile-friendly and built with accessibility in mind.
 🏆 **[ASFA International Invitational 2026](https://asfaii2026.lurecoursing.club)** — A concept
 event portal for a national specialty: schedule, stakes, fees, trophies and travel in one place.
 
+## Source code
+
+The tools above are built in the open where they can be:
+
+- [`stats`](https://github.com/jackrabbit-project/stats) — everything behind Lure Coursing Stats:
+  the site plus the Python pipeline that reads ASFA's published pages, archives them verbatim, and
+  verifies every figure before it ships.
+- [`aok9`](https://github.com/jackrabbit-project/aok9) — the AOK9 Race Secretary app.
+- [`ii2026guide`](https://github.com/jackrabbit-project/ii2026guide) — the ASFA II 2026 guide site.
+
+All are MIT licensed; see each repository's LICENSE for data and asset carve-outs. The entry-form
+service and the design demos remain private.
+
 ## Get involved
 
 This work exists because people at trials said what was broken. You don't need to write code to help:
@@ -58,8 +71,8 @@ This work exists because people at trials said what was broken. You don't need t
   a real entry through the entry form, and tell us where it fought you.
 - **Share your own tool.** Built a spreadsheet, a scoring sheet or a script that saves your club
   time? We'd rather link to it than rebuild it.
-- **Contribute code.** Repositories are at [github.com/jackrabbit-project](https://github.com/jackrabbit-project) —
-  issues and pull requests welcome. Most projects are MIT licensed.
+- **Contribute code.** Issues and pull requests are welcome on any of the repositories
+  under [Source code](#source-code) above.
 
 ## About
 
