@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/logo.png" alt="The Jackrabbit Project Logo" width="160" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mark-dark.svg">
+    <img src="assets/mark.svg" alt="The Jackrabbit Project" width="150" />
+  </picture>
   <h1>The Jackrabbit Project</h1>
   <p><strong>Free, practical tools for the sighthound community.</strong></p>
 </div>
