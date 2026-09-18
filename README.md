@@ -30,9 +30,7 @@ Sprint Racing Rule Book v3.0. Install it once and it runs with no signal at all 
 fields — and your meet is saved after every change, so closing the laptop loses nothing. **New:
 live results online.** Publish the meet and every printed sheet carries a QR code; anyone at the
 meet scans it once and follows the divisions, each program's draw, results as they are saved and
-the final standings from their phone, with only what the paddock board shows — never owners,
-registration numbers or WAVEs. Scoring stays in your own browser: no account, nothing uploaded
-unless you choose to publish.
+the final standings from their phone.
 
 📝 **[Lure Coursing Trial Entries](https://entries.lurecoursing.club)** — An online ASFA trial
 entry form. Entrants fill it in, sign and pay; the trial secretary gets a clean, legible entry
