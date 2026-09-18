@@ -11,14 +11,18 @@ Everything is free, works on a phone, and needs no account.
 
 ## Tools you can use today
 
-📊 **[Lure Coursing Stats](https://stats.gazehound.io)** — The 2026 ASFA season, searchable.
-Look up any hound for a full profile — rank, points, movement since the last update, and a
-shareable stat card. True percentile standings within each breed, BIF and BOB leaderboards,
-kennel and region tables, and every title earned this season. Find an upcoming trial by state,
-region or month with premium lists linked, check a score with the Bowen calculator, or search
-the Running Rules (rev. 08/01/2026) right on the site. Breed stakes, the Singles stake and the
-LCI program are counted on their own terms, every figure traces to ASFA's published pages, and
-it refreshes with each ASFA publication.
+📊 **[Gazehound Stats](https://stats.gazehound.io)** — Lure coursing and racing stats for ASFA,
+LGRA and AOK9, hound by hound. One search box finds a hound in any of the three programs.
+*ASFA lure coursing:* the 2026 Top 20 season, searchable — rank, points, movement since the last
+update, a shareable stat card, true percentile standings within each breed, BIF and BOB
+leaderboards, kennel and region tables, every title earned this season, an event finder with
+premium lists linked, the Bowen calculator and the Running Rules (rev. 08/01/2026) on the site.
+*LGRA straight racing and AOK9 sprint racing:* standings by breed and all-breed on this season's
+National points, career points, WAVE and grade, kennels, and a page for every hound with its last
+three meets and its progress toward GRC and SGRC (LGRA) or BRC, MRC and the Supreme titles
+(AOK9) — built from the bodies' published grading guides. Every figure traces to a published
+page or guide, the arithmetic is re-derived and checked before anything ships, and the site
+refreshes weekly.
 
 🏁 **[AOK9 Race Secretary](https://aok9rms.gazehound.io)** — Run a sprint racing meet start to
 finish: entries, divisions, programs, results and export, following the AOK9 Sprint Racing Rule
@@ -53,9 +57,9 @@ event portal for a national specialty: schedule, stakes, fees, trophies and trav
 
 The tools above are built in the open where they can be:
 
-- [`stats`](https://github.com/jackrabbit-project/stats) — everything behind Lure Coursing Stats:
-  the site plus the Python pipeline that reads ASFA's published pages, archives them verbatim, and
-  verifies every figure before it ships.
+- [`stats`](https://github.com/jackrabbit-project/stats) — everything behind Gazehound Stats:
+  the site plus the Python pipeline that reads ASFA's published pages and the LGRA and AOK9
+  grading guides, archives them, and verifies every figure before it ships.
 - [`aok9`](https://github.com/jackrabbit-project/aok9) — the AOK9 Race Secretary app.
 - [`ii2026guide`](https://github.com/jackrabbit-project/ii2026guide) — the ASFA II 2026 guide site.
 
