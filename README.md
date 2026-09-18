@@ -25,10 +25,14 @@ page or guide, the arithmetic is re-derived and checked before anything ships, a
 refreshes weekly.
 
 🏁 **[AOK9 Race Secretary](https://aok9rms.gazehound.io)** — Run a sprint racing meet start to
-finish: entries, divisions, programs, results and export, following the AOK9 Sprint Racing Rule
-Book v3.0. Install it once and it runs with no signal at all — meets happen in fields — and your
-meet is saved after every change, so closing the laptop loses nothing. Everything stays in your
-own browser: no account, no server, nothing uploaded.
+finish: entries, divisions, programs, results and the official NRD report, following the AOK9
+Sprint Racing Rule Book v3.0. Install it once and it runs with no signal at all — meets happen in
+fields — and your meet is saved after every change, so closing the laptop loses nothing. **New:
+live results online.** Publish the meet and every printed sheet carries a QR code; anyone at the
+meet scans it once and follows the divisions, each program's draw, results as they are saved and
+the final standings from their phone, with only what the paddock board shows — never owners,
+registration numbers or WAVEs. Scoring stays in your own browser: no account, nothing uploaded
+unless you choose to publish.
 
 📝 **[Lure Coursing Trial Entries](https://entries.lurecoursing.club)** — An online ASFA trial
 entry form. Entrants fill it in, sign and pay; the trial secretary gets a clean, legible entry
