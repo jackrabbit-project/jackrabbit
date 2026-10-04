@@ -12,7 +12,7 @@ Everything is free, works on a phone, and needs no account.
 ## Tools you can use today
 
 📊 **[Gazehound Stats](https://stats.gazehound.io)** — Lure coursing and racing stats for ASFA,
-LGRA and AOK9, hound by hound. One search box finds a hound in any of the three programs.
+LGRA, NOTRA and AOK9, hound by hound. One search box finds a hound in any of the three programs.
 *ASFA lure coursing:* the 2026 Top 20 season, searchable — rank, points, movement since the last
 update, a shareable stat card, true percentile standings within each breed, BIF and BOB
 leaderboards, kennel and region tables, every title earned this season, an event finder with
