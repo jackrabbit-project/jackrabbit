@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-    <img src="assets/logo.svg" alt="The Jackrabbit Project — free tools built for the sport" width="640" />
+    <img src="assets/logo.svg" alt="The Jackrabbit Project — free tools built by and for the sighthound community" width="640" />
   </picture>
 </div>
 
@@ -88,4 +88,4 @@ endorsed by any club or association. Where a project summarizes official rules, 
 the official materials always govern.
 
 ---
-*The Jackrabbit Project — free tools built for the sport.*
+*The Jackrabbit Project — free tools built by and for the sighthound community.*
